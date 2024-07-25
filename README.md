@@ -8,3 +8,9 @@
 
 I am a passionate Angular Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **Javascript applications, Front-end Development, and Web skills** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
+<details>
+  <summary><h4>Tech Stack</h4></summary>
+  ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+</details>
