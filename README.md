@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋<img src="https://github.com/bakabruh/bakabruh/blob/main/assets/cat-gif.gif" width="28px"/>, I'm Bakabruh</h1>
+<h1 align="center">Hello there 👋<img src="https://github.com/bakabruh/bakabruh/blob/master/assets/cat-gif.gif" width="28px"/>I'm Bakabruh</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=bakabruh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Angular developper
